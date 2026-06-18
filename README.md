@@ -1,4 +1,4 @@
-# Public-Opinion-Analysis-Of-Indonesian-Education
+# Public-Opinion-Analysis-Impact-Of-AI-On-Indonesian-Education
 
 ![Visulization_Classification](assets/PCA-Visualization.png)
 
