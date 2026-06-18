@@ -1,6 +1,6 @@
 # Public-Opinion-Analysis-Of-Indonesian-Education
 
-![Ratings 5 Review](assets/wordcloud.png)
+![Visulization_Classification](assets/PCA-Visualization.png)
 
 ## Summary
 This project applies Unsupervised Learning to analyze public sentiment and opinion in Indonesia regarding the impact of Artificial Intelligence (AI) in education. The analysis extracts insights from YouTube comments by comparing a persona-based Clustering technique with Topic Extraction.
